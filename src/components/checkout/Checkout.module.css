@@ -1,0 +1,16 @@
+.checkout {
+  position: relative;
+  min-height: 55vh;
+}
+.checkout p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: fit-content;
+  margin: auto;
+  padding: 1.5rem;
+  transform: translate(-50%, -50%);
+  text-align: justify;
+  font-size: 1.7rem;
+  font-weight: 500;
+}
