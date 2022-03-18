@@ -20,8 +20,7 @@
   <p>
     Edit the codes and let me know if you have more knowledge or better ideas.
   </p>
-  <a href="  https://mbecommerce.netlify.app/
-" target="_blank"
+  <a href="https://mbecommerce.netlify.app/" target="_blank"
     >watch online</a
   >
 </div>
