@@ -4,7 +4,7 @@
     
   </h2>
   <h1>E-Commerce Website <a href="https://mbecommerce.netlify.app/" target="_blank"
-    >watch online</a
+    >(watch online)</a
   ></h1>
   <p>
     An E-Commerce app with ReactJs using CommerceJs for the backend stuff. In the app you can add a product to your cart. In the cart you can change the quantity of a product, delete a product or delete all the products in your cart.
