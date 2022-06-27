@@ -1,10 +1,19 @@
 <div>
   <img src="./src/assets/page.PNG" />
+  <h2>
+    <a href="https://mbecommerce.netlify.app/" target="_blank"
+    >watch online</a
+  >
+  </h2>
   <h1>E-Commerce Website</h1>
   <p>
     An E-Commerce app with ReactJs using CommerceJs for the backend stuff. In the app you can add a product to your cart. In the cart you can change the quantity of a product, delete a product or delete all the products in your cart.
   </p>
+   <p>
+    Edit the codes and let me know if you have more knowledge or better ideas.
+  </p>
 </div>
+<hr />
 <div>
   <p>In the project directory, you can run:</p>
   <pre>npm start</pre>
@@ -17,10 +26,4 @@
     The page will reload if you make edits. You will also see any lint errors in
     the console.
   </p>
-  <p>
-    Edit the codes and let me know if you have more knowledge or better ideas.
-  </p>
-  <a href="https://mbecommerce.netlify.app/" target="_blank"
-    >watch online</a
-  >
 </div>
