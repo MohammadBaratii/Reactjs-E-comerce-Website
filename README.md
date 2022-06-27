@@ -1,8 +1,5 @@
 <div>
   <img src="./src/assets/page.PNG" />
-  <h2>
-    
-  </h2>
   <h1>E-Commerce Website <a href="https://mbecommerce.netlify.app/" target="_blank"
     >(watch online)</a
   ></h1>
